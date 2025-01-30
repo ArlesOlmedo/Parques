@@ -1,0 +1,169 @@
+.wrap{
+    width: 95vw;
+    height: 95vh;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../assets/img/videos/e3c03137-89ec-4a06-84a2-1cf5773d4852.jpg);
+    background-size: 100% 100%;   
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.h1{
+    position:absolute;
+    top: 20px;
+    left: 40px;
+    background-repeat: no-repeat;
+
+}
+
+.wrap-texto{
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    text-align: justify;
+    background-size: cover;
+    background-position: center; 
+    color: rgb(1, 26, 26);
+    width:85%;
+}
+
+.boton{
+    position: absolute;
+    top: 20px;
+    left: 1100px;
+    background-color: green; color:blanchedalmond;
+    border-radius: 5px; 
+}
+
+.boton{
+    color: #f1f5f8;
+    transition: color 0.3s ease;
+}
+
+
+.boton:hover{  
+        background-color: #111;
+}
+
+
+
+
+
+/* Grid 
+div{
+    display:block;
+    margin:16px;
+    height: 300px;
+    width: 300px;
+    background: sienna;
+    font-size: 64px;
+    padding: 64px;
+    border: 40px saddlebrown;
+}
+*/
+
+/*
+
+.body{
+    background-color: rgb(138, 177, 211);
+
+}
+
+.image{
+    position: absolute;
+    top: 80px;
+    right: 40px;
+    display:block;
+    margin:16px;
+    height: 200px;
+    width: 200px;
+    background: sienna;
+    font-size: 20px;
+    padding: 5px;
+    border: 10px saddlebrown;
+}
+
+.image2{
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    display:block;
+    margin:16px;
+    height: 200px;
+    width: 200px;
+    background: sienna;
+    font-size: 20px;
+    padding: 5px;
+    border: 10px saddlebrown;
+}
+
+.video2{
+    position: absolute;
+    top: 80px;
+    left: 410px;
+    display: block;
+    margin: 16px;
+    height: 225px;
+    width: 400px;
+    background: sienna;
+    font-size: 20px;
+    padding: 5px;
+    border: 10px saddlebrown;
+}
+
+.video{
+    position: absolute;
+    top: 400px;
+    left: 410px;
+    display: block;
+    margin:16px;
+    height: 225px;
+    width: 400px;
+    background: sienna;
+    font-size: 20px;
+    padding: 5px;
+    border: 10px saddlebrown;
+}
+
+
+.parrafo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: last baseline;
+    text-align: justify;
+}
+/*
+.grid-container{
+    display: grid;
+    background-color: rgb(0, 255, 170);
+    grid-template-columns: 200px 120px 200px;
+    grid-template-rows: 100px 120px 100px;
+    grid-auto-flow: (rows);
+}
+
+.grid-container > div{
+    background-color: rgb(1,83,83);
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.em;
+}
+
+.grid-container > div:not(.distinta){
+    background-color: rgb(1,83,83);
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.em;
+    width: 50px;
+    height: 50px;
+}
+
+.distinta{
+    width: 50px;
+    height: 75px;
+}
+
+*/
